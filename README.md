@@ -8,7 +8,7 @@ Explore diverse menus, order your favorites, and enjoy doorstep delivery.
 Savor the flavors, all in a few taps."
 
 ## Technology Stack Overview.
-NamasteMail, an innovative mail app, is crafted using ReactJS for a dynamic and user-friendly interface, 
+HungryHub, an innovative food-ordering app, is crafted using ReactJS for a dynamic and user-friendly interface, 
 while React-bootstrap adds a touch of elegance to its design. With Firebase Cloud Storage, we ensure secure authentication
 and a robust backend, guaranteeing the safety and reliability of your data, making your mailing experience seamless and efficient.
 
