@@ -14,7 +14,7 @@ and a robust backend, guaranteeing the safety and reliability of your data, maki
 
 
 ## Run this app in your browser
- Click on this [https://kaleidoscopic-queijadas-a0b8e3.netlify.app](https://kaleidoscopic-queijadas-a0b8e3.netlify.app) 
+ Click on this [https://hungry-hub-app.netlify.app](https://hungry-hub-app.netlify.app) 
  to play with this app in your browser.
 
 ## Available Scripts
